@@ -1,0 +1,123 @@
+.home-container{
+position: relative;
+top: 0px;
+left: 38%;
+width: 360px;
+height: 750px;
+background: transparent linear-gradient(180deg, #000000 0%, #000E09 100%) 0% 0% no-repeat padding-box;
+mix-blend-mode: normal;
+border-radius: 28px;
+opacity: 1;
+color: white;
+}
+.home-main{
+    padding: 20px;
+    margin: 4px;
+}
+.home-content-container{
+top: 243px;
+left: 10px;
+width: 340px;
+height: 430px;
+position: absolute;
+background: #5E5E5E82 0% 0% no-repeat padding-box;
+box-shadow: inset 0px 4px 0px #00000040;
+mix-blend-mode: normal;
+opacity: 0.4;
+line-height: 30px;
+border-radius: 25px;
+
+}
+.home-heading{
+    width: 326px;
+    position: absolute;
+    top: -45px;
+    left: 3px;
+    height: 45px;
+    padding: 10px 20px;
+    text-align: center;
+    font: normal normal bold 18px/25px Source Sans Pro;
+    letter-spacing: 0.01px;
+    color: #FFFFFFB3;
+    border-radius:17px;
+    border: none;
+background: #1A2C2C99 0% 0% no-repeat padding-box;
+mix-blend-mode: normal;
+opacity: 1;
+}
+.home-img1{
+  display: flex;
+  justify-content: end;
+  align-items: center;
+  position: relative;
+  top: 50px;
+  left: -10px;
+}
+.home-img2{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  top: 28px;
+  position: relative;
+}
+.home-span{
+    margin-left:53px;
+}
+.home-footer-icons{
+display: flex;
+justify-content: space-evenly;
+position: relative;
+top: 577px;
+align-items: center; 
+width: 360px;
+height: 50px;
+border-radius: 20px;
+background: transparent linear-gradient(262deg, #0F2323 0%, #0F2323 40%) 0% 0% no-repeat padding-box;
+box-shadow: inset 8px 4px 4px #00000040;
+mix-blend-mode: normal;
+border: 1px solid #0F2323;
+opacity: 1;
+bottom: -10px;
+}
+.icon{
+position: relative;
+width: 360px;
+height: 50px;
+text-align: center;
+display: flex;
+justify-content: center;
+align-items: center;
+background: transparent linear-gradient(262deg, #0F2323 0%, #0F2323 40%) 0% 0% no-repeat padding-box;
+box-shadow: inset 8px 4px 4px #00000040;
+mix-blend-mode: normal;
+border: 1px solid #0F2323;
+opacity: 1;
+border-radius:20px ;
+}
+.fa-icons{
+width: 28px;
+height: 28px;
+background: transparent 0% 0% no-repeat padding-box;
+mix-blend-mode: normal;
+opacity: 0.5;
+color: #36A546CC;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
